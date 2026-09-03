@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de Produção — Bobinagem",
+  "description": "Calculadora operacional e responsiva de capacidade diária e eficiência para o setor de Bobinagem de transformadores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
